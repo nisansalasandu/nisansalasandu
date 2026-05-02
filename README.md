@@ -56,23 +56,23 @@
 
 ### 📌 Pinned Projects
 
-#### 🎯 [Candidate Recommendation System](https://github.com/nisansalasandu/Candidate-Recommendation-System)
-> NLP-based CV-to-job matching using **TF-IDF and cosine similarity**. Automatically ranks candidates by relevance to job descriptions. Built with Python.
+#### 🎯 [hr-recruitment-analytics](https://github.com/nisansalasandu/hr-recruitment-analytics)
+> Predictive workforce planning using historical HR recruitment data — includes data cleaning, exploratory analysis, forecasting models, and visual dashboards to anticipate future hiring needs by department.
 
-#### 📊 [Sales Lead Scoring System](https://github.com/nisansalasandu/Sales-Lead-Scoring-System)
-> AI-powered lead scoring using **machine learning** to prioritize high-conversion prospects. Includes an interactive **Streamlit dashboard** for real-time scoring.
+#### 📊 [job-recommendation-system](https://github.com/nisansalasandu/job-recommendation-system)
+> A content-based job recommendation system built that matches candidates to relevant job postings using NLP and cosine similarity.
 
-#### 👥 [HR Recruitment Analytics](https://github.com/nisansalasandu/hr-recruitment-analytics)
-> Predictive workforce planning using historical HR data — covers data cleaning, EDA, **forecasting models**, and visual dashboards to anticipate hiring needs.
+#### 👥 [Pharma-Blockchain](https://github.com/nisansalasandu/Pharma-Blockchain)
+> AI-powered predictive blockchain system for Sri Lankan pharmaceutical supply chain management.
 
-#### 🏪 [Retail Sales Analysis — Power BI & SQL](https://github.com/nisansalasandu/Retail-Sales-Analysis-PowerBI-SQL)
-> End-to-end retail sales analysis with **SQL Server backend** and interactive **Power BI dashboards** for business decision-making.
+#### 🏪 [recruitment-nlp-lab](https://github.com/nisansalasandu/recruitment-nlp-lab)
+> A deep learning project applying NLP techniques to recruitment data — including resume classification, job-description matching, and keyword extraction using TF-IDF and feedforward neural networks.
 
-#### 🗄️ [Retail Sales Business Database](https://github.com/nisansalasandu/retail-sales-business-database)
-> Structured relational database on **Microsoft SQL Server** — data cleaning with Pandas, ER diagram design, and SQL-based business queries.
+#### 🗄️ [srilanka-job-market-analysis](https://github.com/nisansalasandu/srilanka-job-market-analysis)
+> Time series forecasting and market trend analysis of Sri Lankan recruitment industry (2022-2024) using Python, Prophet, and Power BI. Includes data cleaning, forecasting models, scenario analysis, and interactive PowerBI dashboards.
 
-#### 📈 [Sales Performance Analytics](https://github.com/nisansalasandu/sales-performance-analytics)
-> Data-driven sales analytics — **KPI calculation**, trend analysis, and interactive dashboards to support business development decisions.
+#### 📈 [xgboost-vs-randomforest-attrition](https://github.com/nisansalasandu/xgboost-vs-randomforest-attrition)
+> A comparative study of XGBoost and Random Forest ensemble models for predicting employee attrition using the IBM HR Analytics dataset. Includes EDA, preprocessing, hyperparameter tuning, feature importance analysis with SHAP, and a final performance comparison.
 
 ---
 
